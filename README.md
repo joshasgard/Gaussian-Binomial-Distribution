@@ -9,11 +9,11 @@
 A data analysis package that helps users determine the mean, standard deviation and probability distribution of different datasets and outcomes. 
 
 ## Motivation 
-
+The goal is to create a package that would help academics and data professionals alike in quickly determining the Probability Distributions of their dataset and visualising it.  
 
 
 ## File Descriptions 
-
+The ``setup.py`` and ``test.py`` scripts are the set-up configuration and the unittest files for the distribution package respectively. 
 
 
 
