@@ -13,7 +13,7 @@ The goal is to create a package that would help academics and data professionals
 
 
 ## File Descriptions 
-The ``setup.py`` and ``test.py`` scripts are the set-up configuration and the unittest files for the distribution package respectively. 
+The ``setup.py`` and ``test.py`` scripts are the set-up configuration and the unittest files for the distribution package respectively. distributions package contains ``Binomialdistribution_challenge.py`` for Binomial distribution, ``Gaussiandistribution.py`` for Gaussian distribution and ``Generaldistribution.py`` for reading the data fromm file. 
 
 
 
