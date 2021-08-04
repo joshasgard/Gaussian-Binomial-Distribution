@@ -17,9 +17,10 @@ The ``setup.py`` and ``test.py`` scripts are the set-up configuration and the un
 
 
 
-## How-to
-
+## Installations
+The package was written in Python. Any Python version above 3.0 should work. If you would like to install the package in your local machine, it is advisable to install it in a new environment with the latest python installation. 
 
 
 
 ## Licensing, Authors and Acknowledgements
+* Credits to [UDACITY](udacity.com) for laying the groundwork for this package for me to build on. 
