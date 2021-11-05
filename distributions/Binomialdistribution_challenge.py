@@ -1,6 +1,5 @@
 # TODO: import necessary libraries
 import math
-import matplotlib.pyplot as plt
 from .Generaldistribution import Distribution
 
 # A Binomial class that inherits from the Distribution class. 
